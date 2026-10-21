@@ -1,4 +1,4 @@
-# Demo
+# Home title
 
 This is a demo
 
